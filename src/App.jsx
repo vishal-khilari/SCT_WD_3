@@ -249,7 +249,7 @@ const QuizGame = () => {
             Quiz Application
           </h1>
           <p className="text-lg text-gray-600 mb-8">
-            Test your knowledge with interactive questions
+            Test your knowledge
           </p>
 
           <div className="bg-slate-50 rounded-xl p-6 mb-8">
