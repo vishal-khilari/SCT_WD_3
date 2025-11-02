@@ -246,7 +246,7 @@ const QuizGame = () => {
             <Trophy className="w-20 h-20 mx-auto text-blue-600" />
           </div>
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
-            Professional Quiz Application
+            Quiz Application
           </h1>
           <p className="text-lg text-gray-600 mb-8">
             Test your knowledge with interactive questions
